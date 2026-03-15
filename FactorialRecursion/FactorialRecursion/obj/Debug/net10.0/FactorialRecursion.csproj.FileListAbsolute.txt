@@ -1,0 +1,14 @@
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\bin\Debug\net10.0\FactorialRecursion.exe
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\bin\Debug\net10.0\FactorialRecursion.deps.json
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\bin\Debug\net10.0\FactorialRecursion.runtimeconfig.json
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\bin\Debug\net10.0\FactorialRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\bin\Debug\net10.0\FactorialRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.AssemblyInfoInputs.cache
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.AssemblyInfo.cs
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\refint\FactorialRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\FactorialRecursion.genruntimeconfig.cache
+C:\Users\dcana\source\repos\CST-250\FactorialRecursion\FactorialRecursion\obj\Debug\net10.0\ref\FactorialRecursion.dll

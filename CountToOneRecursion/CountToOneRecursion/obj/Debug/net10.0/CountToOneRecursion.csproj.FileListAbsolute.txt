@@ -1,0 +1,14 @@
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\bin\Debug\net10.0\CountToOneRecursion.exe
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\bin\Debug\net10.0\CountToOneRecursion.deps.json
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\bin\Debug\net10.0\CountToOneRecursion.runtimeconfig.json
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\bin\Debug\net10.0\CountToOneRecursion.dll
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\bin\Debug\net10.0\CountToOneRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.AssemblyInfoInputs.cache
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.AssemblyInfo.cs
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.csproj.CoreCompileInputs.cache
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.dll
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\refint\CountToOneRecursion.dll
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\CountToOneRecursion.genruntimeconfig.cache
+C:\Users\dcana\source\repos\CST-250\CountToOneRecursion\CountToOneRecursion\obj\Debug\net10.0\ref\CountToOneRecursion.dll
