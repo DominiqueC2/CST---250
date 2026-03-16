@@ -1,0 +1,14 @@
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\bin\Debug\net10.0\FloodFillRecursion.exe
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\bin\Debug\net10.0\FloodFillRecursion.deps.json
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\bin\Debug\net10.0\FloodFillRecursion.runtimeconfig.json
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\bin\Debug\net10.0\FloodFillRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\bin\Debug\net10.0\FloodFillRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.AssemblyInfoInputs.cache
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.AssemblyInfo.cs
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.csproj.CoreCompileInputs.cache
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\refint\FloodFillRecursion.dll
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.pdb
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\FloodFillRecursion.genruntimeconfig.cache
+C:\Users\dcana\source\repos\CST-250\FloodFillRecursion\FloodFillRecursion\obj\Debug\net10.0\ref\FloodFillRecursion.dll
