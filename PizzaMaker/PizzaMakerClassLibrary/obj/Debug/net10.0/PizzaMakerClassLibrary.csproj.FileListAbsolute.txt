@@ -1,0 +1,11 @@
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\bin\Debug\net10.0\PizzaMakerClassLibrary.deps.json
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\bin\Debug\net10.0\PizzaMakerClassLibrary.dll
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\bin\Debug\net10.0\PizzaMakerClassLibrary.pdb
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.AssemblyInfo.cs
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.dll
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\refint\PizzaMakerClassLibrary.dll
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\PizzaMakerClassLibrary.pdb
+C:\Users\dcana\source\repos\CST-250\PizzaMaker\PizzaMakerClassLibrary\obj\Debug\net10.0\ref\PizzaMakerClassLibrary.dll
